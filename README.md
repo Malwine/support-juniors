@@ -39,6 +39,7 @@ For what that means in detail we created this repo and would like to hear your o
 - [bitcrowd](http://bitcrowd.net)
 - [Travis CI](http://travis-ci.com)
 - [testcloud](https://www.testcloud.io)
+- [Pilot](http://pilot.co/bootcamp)
 - [ Insert your company here!! ]
   
 
