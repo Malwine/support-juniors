@@ -54,6 +54,7 @@ For what that means in detail we created this repo and would like to hear your o
 - [trecker.com](http://trecker.com) [Berlin, Germany]
 - [ikusei](http://ikusei.de) [Berlin, Germany]
 - [makerist](https://www.makerist.de)
+- [Railslove](https://www.railslove.com) [Cologne, Germany]
 - [ Insert your company here!! ]
 
 
