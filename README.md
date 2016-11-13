@@ -2,7 +2,7 @@
 
 This repository is a starting point to collect information about companies worldwide **supporting junior developers**.
 
-**Juniors** are developers who are at the beginning of their career. Maybe they are working students studying computer science or teached themselfes at home. Maybe they joined a bootcamp or Rails Girls Summer of Code. Though they might have some knowledge they are incredibly eager to explore more and learn best practice from their future colleagues.
+**Juniors** are developers who are at the beginning of their career. Maybe they are working students studying computer science or taught themselves at home. Maybe they joined a bootcamp or Rails Girls Summer of Code. Though they might have some knowledge they are incredibly eager to explore more and learn best practice from their future colleagues.
 
 As a junior feel free to join the [Juniors Are Awesome Network](http://juniorsareawesome.org/). 
 
