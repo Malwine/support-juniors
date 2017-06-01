@@ -12,10 +12,7 @@ Many companies state that they have no time, money and capacity for juniors. But
 
 We want to collect offers for **intern and junior positions** to give beginners an idea where they could apply. Moreover, we want to discuss guidelines for **how to teach** juniors in your company.
 
-### About us
-
-Bodo is a developer at bitcrowd and is currently preparing their Junior Developer Curriculum.
-Malwine works as a junior at DaWanda. Both want to encourage companies to hire and support juniors.
+### About
 The idea for the repo resulted from a [tweet](https://twitter.com/bitboxer/status/558921160562597890) from Bodo.
 
 ### How to contribute
