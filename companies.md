@@ -137,6 +137,30 @@ Absolutely! You can always ask someone for help and input and everyone is always
 
 ---
 
+### [Blinkfire Analytics](http://www.blinkfire.com/)
+[Jobs](https://angel.co/blinkfire-analytics/jobs)
+
+**1. What is your company's product? What does you company do?**
+Blinkfire uses Computer Vision and Big Data to analyze and measure Sports Sponsorship from social media in real time.
+
+**2. Total amount of devs including juniors:** 8
+
+**3. Amount juniors:**  2
+
+**4. Stack & main technologies:**
+Python, Django, Angular, Elasticsearch, Docker, OpenCV, Tensorflow, C, Cuda.
+
+**5. How do you support juniors?**
+Dedicated mentors, pair programming, code reviews, and a extensive communication with the rest of the team.
+
+**6. Did you or your team participate in any beginner/junior support event?**
+Yes, we did a Introduction to Google App Engine at Python Valencia meetup ([link](https://www.youtube.com/watch?v=NR8JcRbppP0&index=3&list=PLplaJG_TAn2M21Dqm4qOf5XhQnbxYjnyz)) and also a GAE workshop at Universitat Politecnica de Valencia ([link](https://github.com/alecdotico/blablastar/tree/master/docs)).
+
+**7. Does your company support taking work time off for educational reasons?** (e.g. can a junior approach someone in the team whenever there are problems or help is needed?)
+Yes, and we cover expenses like events and technical books.
+
+---
+
 > Please copy the part below and fill it out. Leave one empty version for the next contributor.
 
 ### [company-name](link)
