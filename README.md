@@ -34,6 +34,7 @@ Companies that want to hire juniors in the future.
 - [shipcloud.io](https://www.shipcloud.io/en) [Hamburg, Germany]
 - [POSpulse](http://pospulse.com) [Berlin, Germany]
 - [Gapfish GmbH](http://www.gapfish.com/en/) [Berlin, Germany]
+- [Blinkfire Analytics, Inc.](https://www.blinkfire.com/) [Valencia, Spain and Chicago, US]
 - [ Insert your company here!! ]
 
 ### Companies with open internship positions
@@ -43,6 +44,7 @@ Companies that want to hire interns in the future.
 - [ikusei](http://ikusei.de) [Berlin, Germany]
 - [POSpulse](http://pospulse.com) [Berlin, Germany]
 - [Gapfish GmbH](http://www.gapfish.com/en/) [Berlin, Germany]
+- [Blinkfire Analytics, Inc.](https://www.blinkfire.com/) [Valencia, Spain and Chicago, US]
 - [ Insert your company here!! ]
 
 ### Companies already supporting juniors:
@@ -60,6 +62,7 @@ For what that means in detail we created this repo and would like to hear your o
 - [makerist](https://www.makerist.de)
 - [shipcloud.io](https://www.shipcloud.io/en) [Hamburg, Germany]
 - [Gapfish GmbH](http://www.gapfish.com/en/) [Berlin, Germany]
+- [Blinkfire Analytics, Inc.](https://www.blinkfire.com/) [Valencia, Spain and Chicago, US]
 - [ Insert your company here!! ]
 
 
