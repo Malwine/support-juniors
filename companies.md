@@ -161,6 +161,37 @@ Yes, and we cover expenses like events and technical books.
 
 ---
 
+### [Small Improvements](https://www.small-improvements.com)
+
+[Jobs](https://www.small-improvements.com/careers/) | [Blog](https://tech.small-improvements.com/)
+
+**1. What is your company's product? What does you company do?**
+We help employees grow and communicate better. SoundCloud, GetYourGuide, MarleySpoon, DISQUS and 750+ customers use Small Improvements to give and receive feedback about their work, to set goals and objectives and to praise each other for a job well done.
+
+**2. Total amount of devs including juniors:**
+12 developers
+
+**3. Amount juniors:**
+At the moment we don’t have Juniors, but most of our mid to senior level developers started as Juniors and grew with us.
+
+**4. Stack & main technologies:**
+React, Angular, Java, Spring, Groovy, Docker, Google App Engine
+
+**5. How do you support juniors? If you have no juniors, how do you want to support them in the future?** 
+Our strongest asset is our team, composed of very diverse people with different backgrounds who love sharing their knowledge and get better together. We hire someone when we know they will grow with us but also that we will be able to learn from them whatever their experience. Generally learning happen mostly on the job and we support juniors as much as possible. On the other hand the fact that developers are involved in the whole process from development to product provides a lot of space to grow and try things by yourself.
+
+We also have quite a lot of internal learning opportunities such as weekly dev exchange, pair programming, lunch & learns, workshops, hackathons… and dedicated budget and days to attend conferences or classes.
+
+As a side note, quality is more important than quantity to us and we strive for clean code, so we evolve in a healthy environment which helps us evolve in the right direction.
+
+**6. Did you or your team participate in any beginner/junior support event?**
+We didn’t get involved in events involving only Juniors, but we definitely enjoy contributing to the community. Last year we hold a TOA satellite event open to everyone for example, where attendees had to develop their own Tic Tac Toe client in React and build an AI to play a game in their place. SI developers were around to support them, and we’d like to do more events like that. Some of our developers regularly speak at Meet-ups too.
+
+**7. Does your company support taking work time off for educational reasons?** 
+Continuous learning is very important to us, and we give everyone a 2K budget and additional days off to attend conferences or classes every year. Teams are also given slack time to focus on side projects, which can be contributing to the open source community (Ladda, our OSS js caching framework, was developed during Slack time), writing blogposts, self-learning a new skill… Our senior developers (but everyone, really) love sharing their knowledge and supporting more junior developers.
+
+---
+
 > Please copy the part below and fill it out. Leave one empty version for the next contributor.
 
 ### [company-name](link)
