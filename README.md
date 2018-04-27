@@ -4,8 +4,6 @@ This repository is a starting point to collect information about companies world
 
 **Juniors** are developers who are at the beginning of their career. Maybe they are working students studying computer science or taught themselves at home. Maybe they joined a bootcamp or Rails Girls Summer of Code. Though they might have some knowledge they are incredibly eager to explore more and learn best practice from their future colleagues.
 
-As a junior feel free to join the [Juniors Are Awesome Network](http://juniorsareawesome.org/). 
-
 ### Situation
 
 Many companies state that they have no time, money and capacity for juniors. But if all companies continue with that mindset there won't be any seniors in the future. Let's help the juniors grow!
