@@ -114,7 +114,7 @@ We do and I'm happy to answer all your questions thoroughly.
 ---
 
 ### [Gapfish](http://www.gapfish.com/en/)
-[Jobs](http://www.gapfish.com/de/team/) 
+[Jobs](http://www.gapfish.com/de/team/)
 
 **1. What is your company's product? What does you company do?**
 We are GapFish – the specialist for online surveys. We are a panel provider. We bring people together with markets.
@@ -177,7 +177,7 @@ At the moment we don’t have Juniors, but most of our mid to senior level devel
 **4. Stack & main technologies:**
 React, Angular, Java, Spring, Groovy, Docker, Google App Engine
 
-**5. How do you support juniors? If you have no juniors, how do you want to support them in the future?** 
+**5. How do you support juniors? If you have no juniors, how do you want to support them in the future?**
 Our strongest asset is our team, composed of very diverse people with different backgrounds who love sharing their knowledge and get better together. We hire someone when we know they will grow with us but also that we will be able to learn from them whatever their experience. Generally learning happen mostly on the job and we support juniors as much as possible. On the other hand the fact that developers are involved in the whole process from development to product provides a lot of space to grow and try things by yourself.
 
 We also have quite a lot of internal learning opportunities such as weekly dev exchange, pair programming, lunch & learns, workshops, hackathons… and dedicated budget and days to attend conferences or classes.
@@ -187,8 +187,32 @@ As a side note, quality is more important than quantity to us and we strive for 
 **6. Did you or your team participate in any beginner/junior support event?**
 We didn’t get involved in events involving only Juniors, but we definitely enjoy contributing to the community. Last year we hold a TOA satellite event open to everyone for example, where attendees had to develop their own Tic Tac Toe client in React and build an AI to play a game in their place. SI developers were around to support them, and we’d like to do more events like that. Some of our developers regularly speak at Meet-ups too.
 
-**7. Does your company support taking work time off for educational reasons?** 
+**7. Does your company support taking work time off for educational reasons?**
 Continuous learning is very important to us, and we give everyone a 2K budget and additional days off to attend conferences or classes every year. Teams are also given slack time to focus on side projects, which can be contributing to the open source community (Ladda, our OSS js caching framework, was developed during Slack time), writing blogposts, self-learning a new skill… Our senior developers (but everyone, really) love sharing their knowledge and supporting more junior developers.
+
+---
+
+### [Blacklane](https://www.blacklane.com/en)
+
+[Jobs](https://blacklane-jobs.personio.de/) | [Blog](https://medium.com/blacklane-engineering)
+
+**1. What is your company's product? What does you company do?**
+Blacklane offers a global professional chauffeur service in 60 countries and over 300 cities (as of Oct 2018). Our engineering team works on a variety of products, including apps for both our passengers and drivers, internal tooling for our customer support team and more.
+
+**2. Total amount of devs including juniors:** 60+
+
+**3. Amount juniors:** 3-5
+
+**4. Stack & main technologies:** React, Ruby, Rails, Go, Java, Python, Objective-C and [more](https://www.blacklane.com/en/career/dev-crew).
+
+**5. How do you support juniors?**
+Collaboration is a huge focus in engineering at Blacklane. Juniors are constantly pairing with developers within their team. They also receive mentorship in the form of both a formal mentor (every developer in the department has one) and personalized workshops in the areas they need or want to grow. Everyone is very supportive and understanding, plus there are other juniors or former juniors that you can confide in.
+
+**6. Did you or your team participate in any beginner/junior support event?**
+We've hosted two teams from the Rails Girls Summer of Code program and also open our doors to local meetups that need a space. Additionally, many of our developers are involved with mentoring, hosting introductory workshops in topics like Functional Programming and GraphQL, as well as volunteering with Berlin-based organizations like CSSclasses, OpenTechSchool and ReDI School of Digital Integration.
+
+**7. Does your company support taking work time off for educational reasons?**
+Yes! For all Blacklane developers, at least 10% of working time is dedicated to your own personal and career development. Juniors often have additional time and resources. We also have the budget to attend one conference per year (including travel, accommodation, conference tickets and meals). If you're speaking at a conference, you get that time off as well.
 
 ---
 
