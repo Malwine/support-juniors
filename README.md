@@ -66,6 +66,9 @@ For what that means in detail we created this repo and would like to hear your o
 - [Small Improvements](https://www.small-improvements.com) [Berlin, Germany]
 - [ Insert your company here!! ]
 
+### Job boards with junior positions:
+
+- [careerin.tech](https://careerin.tech/jobs?title=junior)
 
 ---
 PRs for the README are welcome as well.
