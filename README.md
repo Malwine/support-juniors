@@ -2,60 +2,43 @@
 
 This repository is a starting point to collect information about companies worldwide **supporting and growing junior developers**.
 
-**Juniors** are developers who are at the beginning of their career. Maybe they are working students studying computer science or taught themselves at home. Maybe they joined a bootcamp or Rails Girls Summer of Code. Though they might have some knowledge they are incredibly eager to explore more and learn best practice from their future colleagues.
+![Picture of a watering can](/images/grow.png)
+
+**Juniors** are developers who are at the beginning of their career. They might:
+- have just attended their first coding workshop
+- be self taught
+- be working students who are still studying
+- be recent graduates of coding bootcamps or Rails Girls Summer of Code
+- be graduating from computer science
+- be career switchers
+
+They might have a smaller set of knowledge as of yet but they are incredibly eager to explore more and learn best practice from their future colleagues.
 
 ### Situation
 
-Many companies state that they have no time, money and capacity for juniors. But if all companies continue with that mindset there won't be any seniors in the future. Let's help the juniors grow!
+Many companies say they have no time, money and capacity for juniors. But if all companies continue with that mindset there won't be any seniors in the future.
 
-We want to collect offers for **intern and junior positions** to give beginners an idea where they could apply. Moreover, we want to discuss guidelines for **how to teach** juniors in your company.
+Some companies open up junior positions but they expect a computer science degree or x-years of experience. We should never forget that everyone of us started somewhere small. Pre-juniors are also excited to learn and grow. Giving them a chance to grow may change their life.
 
-### About
-The idea for the repo resulted from a [tweet](https://twitter.com/bitboxer/status/558921160562597890) from Bodo.
+![Seedlings marked as juniors and pre-juniors](/images/seedlings.png)
 
 ### How to contribute
+We want to collect offers for **intern and junior positions** to give beginners an idea where they could apply. Moreover, we want to discuss guidelines for **how to teach** juniors in your company.
+
 Create a Pull Request answering the questions from [issue/19](https://github.com/Malwine/support-juniors/issues/19).
 Please add a link to you company and the location of your developer team.
 **Example:**
-- [ExampleCompany](https://github.com/Malwine/juniors-in-berlin/blob/master/README.md) [Berlin, Germany]
-- [OtherExampleCompany](https://github.com/Malwine/juniors-in-berlin/blob/master/README.md) [London, UK and remote]
+- [ExampleCompany](https://github.com/Malwine/juniors-in-berlin/blob/master/README.md) [Location/s, Country]
 
-You can also talk/mail to [Bodo](https://twitter.com/bitboxer) or [Malwine](https://twitter.com/malweene).
-Please note that this repository has a [Code of Conduct](http://berlincodeofconduct.org/).
+You can also talk/mail [Malwine](https://twitter.com/malweene). Please note that this repository has a [Code of Conduct](http://berlincodeofconduct.org/).
 
-### Companies with open junior positions:
+### Companies supporting juniors:
 
-Companies that want to hire juniors in the future.
+Companies that have in the past hired juniors and may still support juniors.
 
-- [Barzahlen](http://barzahlen.de) [Berlin, Germany]
-- [ikusei](http://ikusei.de) [Berlin, Germany]
-- [shipcloud.io](https://www.shipcloud.io/en) [Hamburg, Germany]
-- [POSpulse](http://pospulse.com) [Berlin, Germany]
-- [Gapfish GmbH](http://www.gapfish.com/en/) [Berlin, Germany]
-- [Blinkfire Analytics, Inc.](https://www.blinkfire.com/) [Valencia, Spain and Chicago, US]
-- [Small Improvements](https://www.small-improvements.com) [Berlin, Germany]
-- [ Insert your company here!! ]
-
-### Companies with open internship positions
-
-Companies that want to hire interns in the future.
-
-- [ikusei](http://ikusei.de) [Berlin, Germany]
-- [POSpulse](http://pospulse.com) [Berlin, Germany]
-- [Gapfish GmbH](http://www.gapfish.com/en/) [Berlin, Germany]
-- [Blinkfire Analytics, Inc.](https://www.blinkfire.com/) [Valencia, Spain and Chicago, US]
-- [Small Improvements](https://www.small-improvements.com) [Berlin, Germany]
-- [ Insert your company here!! ]
-
-### Companies already supporting juniors:
-
-Companies that hired and promoted juniors by improving their knowledge.
-For what that means in detail we created this repo and would like to hear your opinion in the issues.
-
-- [DaWanda](http://jobs.dawanda.com/de/) [Berlin, Germany]
 - [bitcrowd](http://bitcrowd.net) [Berlin, Germany]
 - [Travis CI](http://travis-ci.com) [Berlin, Germany]
-- [testcloud](https://www.testcloud.io)
+- [testcloud](https://www.testcloud.io) [Berlin, Germany]
 - [Hitfox](http://www.hitfoxgroup.com) [Berlin, Germany]
 - [trecker.com](http://trecker.com) [Berlin, Germany]
 - [ikusei](http://ikusei.de) [Berlin, Germany]
@@ -65,9 +48,18 @@ For what that means in detail we created this repo and would like to hear your o
 - [Blinkfire Analytics, Inc.](https://www.blinkfire.com/) [Valencia, Spain and Chicago, US]
 - [Small Improvements](https://www.small-improvements.com) [Berlin, Germany]
 - [Blacklane](https://www.blacklane.com/en) [Berlin, Germany]
+- [Barzahlen](http://barzahlen.de) [Berlin, Germany]
+- [ikusei](http://ikusei.de) [Berlin, Germany]
+- [shipcloud.io](https://www.shipcloud.io/en) [Hamburg, Germany]
+- [POSpulse](http://pospulse.com) [Berlin, Germany]
+- [Gapfish GmbH](http://www.gapfish.com/en/) [Berlin, Germany]
+- [Blinkfire Analytics, Inc.](https://www.blinkfire.com/) [Valencia, Spain and Chicago, US]
+- [Small Improvements](https://www.small-improvements.com) [Berlin, Germany]
 - [ Insert your company here!! ]
 
 
 ---
 PRs for the README are welcome as well.
 If you feel like [turning this information into an app](https://twitter.com/sferik/status/558979272816091136) with your learners group please feel more than welcome to do so!
+
+The initial idea for the repo: [tweet](https://twitter.com/bitboxer/status/558921160562597890)
