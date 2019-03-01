@@ -64,6 +64,7 @@ For what that means in detail we created this repo and would like to hear your o
 - [Gapfish GmbH](http://www.gapfish.com/en/) [Berlin, Germany]
 - [Blinkfire Analytics, Inc.](https://www.blinkfire.com/) [Valencia, Spain and Chicago, US]
 - [Small Improvements](https://www.small-improvements.com) [Berlin, Germany]
+- [Blacklane](https://www.blacklane.com/en) [Berlin, Germany]
 - [ Insert your company here!! ]
 
 
