@@ -34,13 +34,12 @@ You can also talk/mail [Malwine](https://twitter.com/malweene). Please note that
 
 ### Companies supporting juniors:
 
-Companies that have in the past hired juniors and may still support juniors.
+Companies that have in the past hired juniors and may still support juniors. Find out more about them in the [companies file](https://github.com/Malwine/support-juniors/blob/master/companies.md) and feel free to contact them.
 
 - [bitcrowd](http://bitcrowd.net) [Berlin, Germany]
 - [Travis CI](http://travis-ci.com) [Berlin, Germany]
 - [testcloud](https://www.testcloud.io) [Berlin, Germany]
 - [Hitfox](http://www.hitfoxgroup.com) [Berlin, Germany]
-- [trecker.com](http://trecker.com) [Berlin, Germany]
 - [ikusei](http://ikusei.de) [Berlin, Germany]
 - [makerist](https://www.makerist.de)
 - [shipcloud.io](https://www.shipcloud.io/en) [Hamburg, Germany]
