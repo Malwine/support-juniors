@@ -56,6 +56,9 @@ Companies that have in the past hired juniors and may still support juniors. Fin
 - [Small Improvements](https://www.small-improvements.com) [Berlin, Germany]
 - [ Insert your company here!! ]
 
+### Job boards with junior positions:
+
+- [careerin.tech](https://careerin.tech/jobs?title=junior)
 
 ---
 PRs for the README are welcome as well.
